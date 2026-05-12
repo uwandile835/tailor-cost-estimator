@@ -8,9 +8,8 @@ import os
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-SECRET_KEY = 'django-insecure-tailor-cost-estimator-unizulu-group7-change-in-production'
-
-DEBUG = True
+SECRET_KEY = 'django-insecure-@b#k7$f9m2p!q9x^l3v%w8n5t*r6e4u1o0z2a5b7c9d1e3f'
+DEBUG = False
 
 ALLOWED_HOSTS = ['*']
 
